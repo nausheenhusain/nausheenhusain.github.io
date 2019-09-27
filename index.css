@@ -29,7 +29,15 @@
 		color: #913737;
 		margin-left: auto;
 		margin-right: auto;
-		padding-bottom:	100px;
+		padding-bottom:	20px;
+	}
+	#nav {
+		font-family: 'Open Sans', sans-serif;
+		text-align: center;
+		padding-bottom: 30px;
+		font-size: 20px;
+		line-height: 20px;
+		cursor: pointer;
 	}
 	#end {
 		background-color: #D2D7D2;
