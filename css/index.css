@@ -18,7 +18,7 @@
 	}
 
 	.container {
-		background-color: #D2D7D2;
+		background-color: #b4b4b4;
 		margin-bottom: 60px;
 		color: #913737;
 	}
@@ -28,7 +28,7 @@
 		font-family: 'Montserrat', serif;
 	}
 	.intro {
-		background-color: #D2D7D2;
+		background-color: #b4b4b4;
 		color: #913737;
 		text-align: center;
 		padding: 10px;
@@ -78,7 +78,7 @@
 		color: black;
 	}
 	#end {
-		background-color: #D2D7D2;
+		background-color: #b4b4b4;
 		color: #913737;
 		text-align:	center;
 		margin-bottom: 50px;
