@@ -16,6 +16,12 @@
 		font-family: 'Open Sans', serif;
 		font-size: 18px;
 	}
+	p.date {
+		color: black;
+    	font-style: italic;
+    	font-size: 16px;
+    	font-family: 'Open Sans', serif;
+	}
 
 	.container {
 		background-color: #b4b4b4;
