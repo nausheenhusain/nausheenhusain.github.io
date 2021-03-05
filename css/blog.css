@@ -11,6 +11,12 @@
 	h3, h4 {
 		font-family: 'Open Sans', serif;
 		line-height: 30px;
+		li {
+			font-family: 'Open Sans', serif;
+			line-height: 30px;
+			color: black;
+			font-size: 24px;
+		}
 	}
 	.container {
 		margin-bottom: 100px;
