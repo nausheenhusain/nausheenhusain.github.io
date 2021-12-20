@@ -1,55 +1,57 @@
-<style>
-	
-	h1 {
-		font-family: 'Montserrat', serif;
-	}
-	
-	h2 {
-		font-family: 'Open Sans', sans-serif;
-	}
+h1 {
+	font-family: 'Montserrat', serif;
+}
 
-	h3, h4 {
+h2 {
+	font-family: 'Open Sans', sans-serif;
+}
+
+h3, h4 {
+	font-family: 'Open Sans', sans-serif;
+	line-height: 30px;
+	li {
 		font-family: 'Open Sans', serif;
 		line-height: 30px;
-		li {
-			font-family: 'Open Sans', serif;
-			line-height: 30px;
-			color: black;
-			font-size: 24px;
-		}
+		color: black;
+		font-size: 24px;
 	}
-	.container {
-		margin-bottom: 100px;
-		background-color: #D2D7D2;
-		border-top: 2px solid black;
-		color: #913737;
-	}
-	.intro {
-		background-color: #D2D7D2;
-		color: #913737;
-		text-align: center;
-		padding: 10px;
-	}
-	#temp {
-		text-align: center;
-		color: #913737;
-		margin-left: auto;
-		margin-right: auto;
-		padding-bottom:	20px;
-	}
-	#nav {
-		font-family: 'Open Sans', sans-serif;
-		text-align: center;
-		padding-bottom: 30px;
-		font-size: 20px;
-		line-height: 20px;
-		cursor: pointer;
-	}
-	#end {
-		background-color: #D2D7D2;
-		color: #913737;
-		text-align:	center;
-		margin-bottom: 50px;
-	}
+}
+p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+}
+.container {
+	margin-bottom: 100px;
+	background-color: #D2D7D2;
+	border-top: 2px solid black;
+	color: #913737;
+}
+.intro {
+	background-color: #D2D7D2;
+	color: #913737;
+	text-align: center;
+	padding: 10px;
+}
+#temp {
+	text-align: center;
+	color: #913737;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom:	20px;
+}
+#nav {
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	padding-bottom: 30px;
+	font-size: 20px;
+	line-height: 20px;
+	cursor: pointer;
+}
+#end {
+	background-color: #D2D7D2;
+	color: #913737;
+	text-align:	center;
+	margin-bottom: 50px;
+}
 
 </style>
