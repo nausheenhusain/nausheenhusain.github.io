@@ -82,6 +82,11 @@ a.sec-head {
 .content h3 {
 	color: black;
 }
+.ext-quote {
+	border-left: 1px solid black;
+	margin-left: 40px;
+	padding-left: 10px;
+}
 #end {
 	background-color: #b4b4b4;
 	color: #913737;
