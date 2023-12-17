@@ -51,6 +51,10 @@ img {
 	border: 1px solid #913737;
 	padding: 5px;
 }
+figcaption {
+	font-style: italic;
+	color: #A9A9A9;
+}
 #end {
 	background-color: #D2D7D2;
 	color: #913737;
