@@ -91,7 +91,7 @@ a.sec-head {
 }
 
 /*Specific additions*/
-#vermin {
+#vermin, #famine {
 	border: 1px solid #913737;
 	padding: 5px;
 	width: 80%;
@@ -135,7 +135,7 @@ figcaption {
 		margin-right: 5px;
 		margin-bottom: 10px;
 	}
-	#vermin {
+	#vermin, #famine {
 		width: 100%;
 	}
 }
